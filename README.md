@@ -1,4 +1,4 @@
-# Python Data Analytics Portfolio
+# Python Data Portfolio
 
 ## A showcase of functions for data analysis using common python libraries for Data Analysis and some other cool data stuff.
 
